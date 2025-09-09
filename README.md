@@ -104,6 +104,10 @@ The executive summary provides a high-level overview of the company's market pos
 - Explosive Market Share Growth: AtliQ's market share has grown exponentially, positioning it as a major competitor in the FMCG space. This is a huge success story and a point of pride.
 
 - The Incomplete Picture: The executive view, while impressive, needs to be paired with the other reports to give a full picture. The rapid market share growth is being achieved at the cost of significant profitability, a trade-off that executives must be aware of to make sound strategic decisions.
+
+
+
+*Live Interactive Dashboard* : <a href= "https://app.powerbi.com/view?r=eyJrIjoiNDExMDMxNzUtM2Q3Yy00OTRjLWI3OTYtOTk3NWFmZDdlZWQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> AtliQ Harware - BI360 using Power BI </a>
    
 
 ## Key Outcomes
